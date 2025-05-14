@@ -1,3 +1,4 @@
 [submodule "libtmp"]
 	path = libtmp
 	url = https://github.com/gkorobeynikov/share_c.git
+	branch = branch_b
